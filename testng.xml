@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="/Users/jhalinsonacosta/Desktop/GraphQLFramework/GraphQLFramework/GraphQLFramework">
+        <classes>
+            <class name="com.graphql.test.GraphQLQueryTest">
+                <methods>
+                    <include name="getAllFilmsTest"/>
+                    <include name="getAllUsers"/>
+                    <include name="getAllUsersTestWithDataTest"/>
+                    <include name="getAllUsersWithPojoTest"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>
