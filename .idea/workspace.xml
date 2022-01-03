@@ -34,6 +34,11 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="RunManager" selected="TestNG.GraphQLQueryTest.getAllUsersWithPojoTest">
     <configuration name="GraphQLQueryTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="GraphQLFramework" />
